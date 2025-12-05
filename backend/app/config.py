@@ -20,7 +20,7 @@ class Settings(BaseSettings):
     WEATHER_API_KEY: str = "21d44e706e651ea9f1e5309e14f1cb24"
     
     # Gemini API
-    GEMINI_API_KEY: str = "AIzaSyCp9AnkElVxBg6MCRpiRkhMoAuhwudL8rk"
+    GEMINI_API_KEY: str = "GEMINI_API_KEY"
     
     # Model Configuration
     MODEL_PATH: str = "../final_model"  # Relative to backend directory
